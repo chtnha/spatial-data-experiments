@@ -1,6 +1,10 @@
 # Spatial data learnings
-Documentation on spatial data visualisation with R. To download shape files, please visit Datameet maps http://projects.datameet.org/maps/
-To get started with learning, I downloaded only 2 states: 
+Documentation on spatial data visualisation with R. 
+To download any country/state boundaries data, please visit:
+* GADM - https://gadm.org/data.html
+* Datameet maps - http://projects.datameet.org/maps/ 
+
+To get started with learning, I downloaded shape files of only 2 states: 
 
 * Goa 
 * Karnataka
